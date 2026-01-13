@@ -1,0 +1,13 @@
+llama-index
+llama-index-vector-stores-qdrant
+llama-index-multi-modal-llms-openai
+llama-index-readers-file
+qdrant-client
+matplotlib
+pillow
+pymupdf
+torchvision
+torch
+transformers
+python-dotenv
+pandas
